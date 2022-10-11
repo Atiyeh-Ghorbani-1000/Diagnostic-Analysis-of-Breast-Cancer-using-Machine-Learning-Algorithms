@@ -21,7 +21,7 @@ Wisconsin Diagnostic Breast Cancer (WDBC) dataset obtained by the university of 
 #     
 
 
-For further data and to review the code you can see the head of the projects on the below link :
+For further data and to review the code you can see the head of the project's page on the below link :
 
 https://github.com/Alireza-Rahimi-3000/Diagnostic-Analysis-of-Breast-Cancer-using-Machine-Learning-Algorithms
 
